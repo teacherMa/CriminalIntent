@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--这里是用来容纳被该activity托管的fragment的视图
+同时也是该activity的视图-->
+<FrameLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_container"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+</FrameLayout>

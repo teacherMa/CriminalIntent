@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">输入一项违规记录</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">具体事例</string>
+    <string name="crime_solved_label">已解决</string>
+    <string name="date_picker_title">违规日期:</string>
+    <string name="new_crime">新违规记录</string>
+    <string name="show_subtitle">显示子标题</string>
+    <string name="hide_subtitle">隐藏子标题</string>
+    <string name="subtitle_format">%1$s 违规</string>
+    <string name="delete_crime">删除本条记录</string>
+    <string name="fragment_crime_list_toolbar_title">Crimes List</string>
+    <string name="activity_crime_list_toolbar_title">Crimes List</string>
+    <string name="back_to_fragment_list">返回到列表</string>
+    <string name="fragment_crime_toolbar_title">违规信息</string>
+    <string name="activity_crime_toolbar_title">违规信息</string>
+    <string name="delete_success">删除成功</string>
+    <string name="create_crime">现在列表中没有任何项，新建一项吗？</string>
+    <string name="crime_suspect_text">选择违规人</string>
+    <string name="crime_report_text">发送违规信息</string>
+    <string name="crime_report">%1$s!这项违规被发现于 %2$s. %3$s, 并且 %4$s</string>
+    <string name="crime_report_solved">事情已经得到解决</string>
+    <string name="crime_report_unsolved">事情还没得到解决</string>
+    <string name="crime_report_no_suspect">未发现嫌疑人</string>
+    <string name="crime_report_suspect">嫌疑人是： %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">发送违规信息</string>
+    <string name="call_him">拨打电话</string>
+</resources>

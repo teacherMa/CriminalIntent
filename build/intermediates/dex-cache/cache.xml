@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_111f6e3c35f3e9a09e8b53bb11397e531e9056cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_dac69dc96c2f333b213f2940c6e5c525967725ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_34316f504417692751213fa8c41633c13f3bcad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_3383bee03a1a90a8f9e3f7afd7bd7be4bb863009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_9a123f37d7db67d902183044ed8894e477c75593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_364e2e48e4d59e45b69458ad03e61fb936c6ccd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_eb26fcafc34cc81b4d8942c43061d244b3b4fde3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eeb2787c0503646857361339dd4b85a39bf9da4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_07eaa9f15bce34c43ce48c9eb7d57e1caca598e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_985f721601b45dc6d6a3654efd09c74feb227ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e6e6c886fd27a8720e019d2fe9d026b54c096786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFile\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6ac48a2153c526801327ca71c9ec136b9e439ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_3d0190c3e28d94c64d0c2931fb958269e1c9bf7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0a38d3ae7671362b46e7ecb1376c911285e03f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3c2768ec106975c0d791ccac1e89642b175fccbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_b70259058671d806271e878faf2d21b5edeca60e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_a51a1df4100dd4a578cd5d0188eb5a13fb11cfed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_552a894d167ed3208a08cf9d11b15fed5f2d6dc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3d6d3c0f97823ab8f117f4789dcbd28311660389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_5ff9b1a9daa696f39023cbd681bacb2569a682f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_88b48ef160ae522d3241fc5814dc8d5b8f1cdd8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_de2b167a4b22222b0b22d74d39d66dbe44ef8f55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4a3d5ddf40d0037c7e77ef2db53121511f44f6f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c328e97489bb3867d936212a80711f2424100517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_ec5663ff598879d0ff254977617e8994f4f41d60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_691ea0a032cdf5ff7a30f81a1b8466b187730922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_81d035fa0758d4f6e832cf1ea972b3427da9227c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_fefcdf9535bdf7a12508803a1deaa43d581d362c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_79c38119aac5679a2a01c8f7cb3b084101d4e540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\WorkSpace\homework\CriminalIntent\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_8f39cf657001e358c9ac639c9b17b99dabb7d46c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\WorkSpace\Android\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cf4e6ddb1ac78dc56e88204feb140a92ba7c258f.jar" />
+    </item>
+
+</items>
